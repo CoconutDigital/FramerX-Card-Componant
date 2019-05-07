@@ -10,7 +10,7 @@ export class Product_Card extends React.Component<Props> {
   }
 
   static defaultProps: Props = {
-    text: "Hello World!"
+    text: "New Product Card"
   };
 
   static propertyControls: PropertyControls<Props> = {
